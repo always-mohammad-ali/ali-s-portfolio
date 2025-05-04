@@ -42,6 +42,7 @@ body{
 .learn-button{
     margin-top: 40px;
     border: none;
+    margin-bottom: 0px;
 }
 
 .learn-button>a{
@@ -135,9 +136,10 @@ body{
 .section-1{
     text-align: center;
     width: 1140px;
-    height: 1400px;
+    
     margin: 0px auto;
     margin-top: 100px;
+    
 }
 .webDev{
   margin-top: 100px;
@@ -146,8 +148,8 @@ body{
 .full-content{
     display: flex;
     gap: 100px;
-    margin-bottom: 70px;
-    padding: 150px;
+    margin-bottom:0px;
+    padding: 100px;
 }
 .content{
     text-align: left;
@@ -157,3 +159,23 @@ body{
 }
 
 /* end section 1 */
+
+/* start section 2 */
+.section-2{
+    text-align: center;
+    padding: 50px;
+    width: 852px;
+    margin: 0px auto;
+}
+.ins-description{
+    margin-top:30px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.vid{
+    width: 940px;
+    height: 514px;
+    border-radius: 20px;
+    
+}
